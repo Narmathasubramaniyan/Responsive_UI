@@ -1,16 +1,15 @@
-# responsivedesign
+# My Project
 
-A new Flutter project.
+## Mobile Layout
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/843d7773-0607-4898-9fbb-85e9db9d0a88" alt="mobile1" width="265"/>
+<img src="https://github.com/user-attachments/assets/394e20e2-d94b-431c-9bf0-d86e774c990f" alt="mobile2" width="250"/>
 
-This project is a starting point for a Flutter application.
+## Tablet Layout
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/c144a865-bb7a-4bdd-9608-22f660c5202c" alt="tablet" width="520"/>
+<img src="https://github.com/user-attachments/assets/8a8e4954-e754-4fee-a646-19e1c00e48a7" alt="tablet2" width="400"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Desktop Layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/f0c11115-ee46-49d1-b495-1089e8aaae6e" alt="desktop" width="1000"/>
